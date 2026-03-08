@@ -1,2 +1,0 @@
-# Personal-Finance-tracker
-Finance
